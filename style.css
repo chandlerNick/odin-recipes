@@ -9,13 +9,35 @@ h1 {
     padding: 10px;
 }
 
-.homepage-nav {
+h2.homepage-nav {
+margin-top: -10px;
+}
+
+li.homepage-nav {
+    margin: 4px;
+}
+
+ul.homepage-nav{
     list-style-type: none;
+    text-align: center;
+}
+
+div.homepage-nav {
+    background-color: coral;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
 }
 
 img {
     width: 15em;
     height: auto;
+}
+
+.intersite-link {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
 .to-home {
